@@ -18,6 +18,7 @@
     "@mui/icons-material": "^5.16.7",
     "@mui/material": "^5.16.7",
     "concurrently": "^8.2.2",
+    "frequency-homework": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tsx": "^4.17.0",
